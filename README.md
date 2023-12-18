@@ -1,17 +1,15 @@
 <h1 align="center">Hi, I'm Adedokun Jagun</h1>
 <h3 align="center">I am an Information Science student at UMD. Here is my GitHub profile, where you can find information about me and the various projects I have worked on. These projects can be located in my repositories, and consist of both academic and personal projects. I will continue to add information here as I continue my learning journey. My profile uses a custom template in order to portray information here in a way that is easy on the eyes. You can also locate a short about me section on the left hand side of the page, which will also be updated over time.</h3>
 
-- 🔭 I’m currently working on **TBA**
+- 🔭 I’m currently working on **SenNet + HOA's, "Hacking the Human Vasculature in 3D**
 
-- 🌱 I’m currently learning **R and Python**
+- 🌱 I’m currently learning **Scala**
 
 - 👯 I’m looking to collaborate on **TBA**
 
 - 🤝 I’m looking for help with **TBA**
 
-- 💬 Ask me about **Data science**
-
-- 📫 How to reach me **itisadedokun@gmail.com**
+- 📫 How to reach me **adedokunajagun@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
